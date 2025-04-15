@@ -446,7 +446,7 @@ export const footerLinks = [
 <details>
 <summary><code>tailwind.config.js</code></summary>
 
-```javascript
+<!-- ```javascript -->
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
