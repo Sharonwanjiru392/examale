@@ -109,11 +109,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
-
-<details>
-<summary><code>constants.ts</code></summary>
-
+#
 ```typescript
 export const manufacturers = [
   "Acura",
@@ -491,7 +487,7 @@ module.exports = {
 
 ## <a name="links">🔗 Links</a>
 
-Assets used in the project are [here](https://drive.google.com/file/d/1Ague8aTHA6JSrzy3kscEZmrJQdtDxqwy/view)
+<!-- Assets used in the project are [here](https://drive.google.com/file/d/1Ague8aTHA6JSrzy3kscEZmrJQdtDxqwy/view) -->
 
 
 
@@ -504,8 +500,8 @@ Assets used in the project are [here](https://drive.google.com/file/d/1Ague8aTHA
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
+<!-- <a href="https://www.jsmastery.pro/masterclass" target="_blank"> -->
+<!-- <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner"> -->
 </a>
 
 #
